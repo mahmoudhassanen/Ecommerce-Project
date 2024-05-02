@@ -19,7 +19,6 @@ import ProtectedRoute from './components/ProtectedRoute/ProtectedRoute'
 import ProductDetails from './components/ProductDetails/ProductDetails'
 import Checkout from './components/Checkout/Checkout.jsx';
 import AllOrders from './components/AllOrders/AllOrders.jsx';
-import MyOrders from './components/MyOrders/MyOrders.jsx'
 
 let routers = createBrowserRouter([
   {
