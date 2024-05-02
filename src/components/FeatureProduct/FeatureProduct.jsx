@@ -99,8 +99,8 @@ async function addCart(id) {
   
  </div>}
  <div className='d-flex justify-content-center align-items-center mt-5'>
-<button className='btn bg-main text-white align-items-center
-'> View More</button>     
+<Link  to='/products' className='btn bg-main text-white align-items-center
+'> View More</Link>     
       </div>
     </div>
     </>
