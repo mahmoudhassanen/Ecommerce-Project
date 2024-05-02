@@ -1,0 +1,9 @@
+.ProductDetails {}
+
+@media screen and (max-width:900px) {
+    .triangle
+    {
+        margin-left: 50px;
+    }
+    
+}
